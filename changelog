@@ -1,1 +1,5 @@
-tester
++ Added Crash Handler (Will Destroy SannSunner UI)
++ Added Transmission Gears Ratio List
+
+× Fixed Free key
+× Fixed Transmission Gear Ratio, Final Drive and Final Drive Multiplier cant do point number (0.24)
